@@ -13,5 +13,5 @@ Today my favorite stack for building website is :
 - **Astro** or **NextJS** with **Tailwind** for the frontend part.
 - **Django** or **Flask** for the backend
 
-Most of my projects are private, but feel free to reach me out for those in public ! 
+Most of my projects are private, but feel free to reach out to me for those in public ! 
 
