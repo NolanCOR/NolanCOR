@@ -7,7 +7,7 @@ Also AI enthusiast, I try to understand and use it when appopriate 🤖
 Curiosity leads me to test and build many projects I find interesting.
 
 Former cybersecurity forensic analyst, I used to spend time on CTF 🏳️ 
-This brought me a better security awarness in my development process 🔒
+This brought me a better security awareness in my development process 🔒
 
 Today my favorite stack for building website is :
 - **Astro** or **NextJS** with **Tailwind** for the frontend part.
