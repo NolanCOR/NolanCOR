@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there 🌔
 
-<!--
-**NolanCOR/NolanCOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is [Nolan](https://fr.linkedin.com/in/nolancorbellari), I'm a web developper and designer based in France. 
+I'm developping website for my clients as a freelancer.
+Also AI enthusiast, I try to understand and use it when appopriate 🤖
 
-Here are some ideas to get you started:
+Curiosity leads me to test and build many projects I find interesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Former cybersecurity forensic analyst, I used to spend time on CTF 🏳️ 
+This brought me a better security awarness in my development process 🔒
+
+Today my favorite stack for building website is :
+- **Astro** or **NextJS** with **Tailwind** for the frontend part.
+- **Django** or **Flask** for the backend
+
+Most of my projects are private, but feel free to reach me out for those in public ! 
+
