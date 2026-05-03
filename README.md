@@ -1,4 +1,4 @@
-# Hey there 🌔
+# Hi there ! 🌔
 
 Hello, my name is [Nolan](https://fr.linkedin.com/in/nolancorbellari), I'm a web developper and designer based in France. 
 I'm developping website for my clients as a freelancer.
